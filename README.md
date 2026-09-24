@@ -35,7 +35,7 @@ The story follows Lina, who receives a seed folded from paper, plants it in her 
 
 ## Live demo
 
-[Add your GitHub Pages link here]
+[View the live site](https://manarsafi06.github.io/The-Paper-Orchard/)
 
 ## Credits
 
